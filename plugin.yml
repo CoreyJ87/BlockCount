@@ -1,0 +1,8 @@
+name: BlockCounter
+version: 1.0
+author: Corey jones
+main: info.coreyjones.blockcounter.main
+commands:
+  blockcount:
+    description: Block count command. Parameters are show and hide
+    usage: /blockcount
